@@ -1,2 +1,2 @@
 # LeetCode_Practice
-## LeetCode解題紀錄
+用於紀錄LeetCode解題過程與想法。
