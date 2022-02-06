@@ -11,7 +11,7 @@
 
 # 舉例
 
-  try
+    try
 
 **Example 1:**
   <br>**Input:** nums = [2, 7, 11, 15], target = 9
